@@ -3,6 +3,14 @@
 Practice exercises for CSS **Flexbox** and **Grid**, part of the Orange training track.
 Each task is a standalone page (`.html` + matching `.css`) that recreates a target layout mockup.
 
+## Live demo
+
+Hosted on GitHub Pages: **https://mayahelmi.github.io/Flex-and-Grid/**
+
+- [Task 1](https://mayahelmi.github.io/Flex-and-Grid/Task1.html)
+- [Task 2](https://mayahelmi.github.io/Flex-and-Grid/Task2.html)
+- [Task 3](https://mayahelmi.github.io/Flex-and-Grid/Task3.html)
+
 ## Tasks
 
 ### Task 1 — Multi-section page layout (Grid)
